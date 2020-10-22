@@ -8,12 +8,14 @@
 + 您可以直接下载: `AutoJs-4.1.1a.Alpha2-armeabi-v7a-release.apk`
 + 使用百度网盘: `链接: https://pan.baidu.com/s/1VAo0UDkaoGT_DLwYTQIg9w 提取码: imvd 复制这段内容后打开百度网盘手机App，操作更方便哦`
 #### 安装autojs
+
 下载之后，找到`AutoJs-4.1.1a.Alpha2-armeabi-v7a-release.apk`，点击安装
 安装完打开会有提示：
 ![](static/001.jpg)
 不够用管他，直接点击确定，开启无障碍模式
-观看视频：static/001.mp4
-
+#### 视频教程
++ [autojs安装并开启无障碍模式](https://www.bilibili.com/video/BV14Z4y1V7b3)
++ [如何添加脚本文件--视频文件](https://www.bilibili.com/video/BV1A54y1r7YA/)
 ## 脚本更新说明
 脚本贡献感谢[roceys](https://github.com/roceys)大神的[Taobao](https://github.com/roceys/Taobao)项目
 
